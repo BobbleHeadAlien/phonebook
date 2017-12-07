@@ -1,5 +1,3 @@
-# The first file i sent had a bug in it. Kindly consider this file instead of the previous file.
-
 #! Python3
 # Program to store telephone data and display required contact list.
 # Given data for the problem is preloaded, But additional input can be given.
